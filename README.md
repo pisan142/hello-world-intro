@@ -26,8 +26,8 @@ If you have not already, create a directory where you will store all your files 
     - The name of the file you create **must be** HelloWorld.java
     - You can delete all the code provided by you IDE and just copy the code that you got from HelloWorld.java file from GitHub
     - You should always indent your code properly. On BlueJ, use Edit > Auto-Layout. On Repl.it, it is called "auto-format" and the button is located on the top-right above editor.
-4. Upload your code by clicking the "Add File" button and drag-and-drop or select your HelloWorld.java file and commit the changes
-5. Check for test results, errors, and suggestions in "Actions" ![image](https://user-images.githubusercontent.com/54456351/122830040-a0d55a00-d29c-11eb-8e7f-a73c1a56546d.png)
+4. Save your file in your IDE to your local computer and then locate the file and **Upload** your code by clicking the "Add File" button. You can also upload your file using drag-and-drop. **Commit changes** on your browser.
+5. Check for test results, errors, and suggestions in "Actions" tab in your browser ![image](https://user-images.githubusercontent.com/54456351/122830040-a0d55a00-d29c-11eb-8e7f-a73c1a56546d.png)
 6. Repeat step 3 and 4 until the assignment is completed and all tests are passed and all code style suggestions are implemented
 
 ![image](https://user-images.githubusercontent.com/54456351/119812273-d3a65100-be9c-11eb-9c53-326b5fc460c3.png)
