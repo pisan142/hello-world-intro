@@ -17,6 +17,7 @@
 This is your first assignment in GitHub Classroom.
 
 If you have not already, create a directory where you will store all your files for this course. Make sure your directory name or your file names don't have any spaces in them as 'spaces' can interfere with some command-line programs.
+
     - (Windows sample directory) C:\Users\pisan\2021AU\142\assignment1
     - (Mac Sample directory) /Users/pisan/2021AU/142/assignment1
 
