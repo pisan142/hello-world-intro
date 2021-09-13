@@ -26,7 +26,8 @@ If you have not already, create a directory where you will store all your files 
     - The name of the Class you are creating **must be** HelloWorld
     - The name of the file you create **must be** HelloWorld.java
     - You can delete all the code provided by you IDE and just copy the code that you got from HelloWorld.java file from GitHub
-    - You should always indent your code properly. On BlueJ, use Edit > Auto-Layout. On Repl.it, it is called "auto-format" and the button is located on the top-right above editor.
+    - By default, BlueJ uses 4 spaces for indentation. The [Google Style Guide](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation) recommends 2 spaces, so we will use 2-spaces for indentation. To change BlueJ's default indentation level see the video at https://www.youtube.com/watch?v=FuaL1b8MQHg
+    - Once you have your indentation level configured properly on BlueJ, use Edit > Auto-Layout to indent your code with 2-spaces.
 4. Save your file in your IDE to your local computer and then locate the file and **Upload** your code by clicking the "Add File" button. You can also upload your file using drag-and-drop. **Commit changes** on your browser.
 5. Check for test results, errors, and suggestions in "Actions" tab in your browser ![image](https://user-images.githubusercontent.com/54456351/122830040-a0d55a00-d29c-11eb-8e7f-a73c1a56546d.png)
 6. Repeat step 3 and 4 until the assignment is completed and all tests are passed and all code style suggestions are implemented
