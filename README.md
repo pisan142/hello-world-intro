@@ -37,8 +37,14 @@ If you have not already, create a directory where you will store all your files 
 When committing, GitHub will ask you to enter a commit message. It helps to easily understand why a change has been made to a file at a particular time and distinguish between each commission.<br>
 ![image](https://user-images.githubusercontent.com/54456351/119812799-66df8680-be9d-11eb-8fec-24645619be13.png)
 <br>
-<br>
 
+<hr>
+
+**END OF INSTRUCTIONS for HelloWorld assignment**
+
+The rest of the README file explains additional concepts about how Actions work.
+
+<hr>
 
 ## Action
 Once you're ready to test them, edit the template files and they will be tested using GitHub Actions. 
