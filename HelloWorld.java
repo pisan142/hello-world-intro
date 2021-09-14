@@ -13,9 +13,10 @@ class HelloWorld {
       *****
      *******
     *********"
-    Note: You need to print out the String between 2 quotation marks (")
+    Note: You need to print out the String between 2 quotation marks (").
           There should be a new line printed at the end of each line.
-          There should be no space after the stars
+          To print a new line, you can use '\n' or println.
+          There should be no space after the stars.
   */
   public static void printStarPiramid() {
       //TODO
@@ -28,9 +29,10 @@ class HelloWorld {
      |  ^  |
      | '-' |
      +-----+"
-    Note: You need to print out the String between 2 quotation marks (")
+    Note: You need to print out the String between 2 quotation marks (").
           There should be a new line printed at the end of each line.
-          There should be no space after the String at each line
+          To print a new line, you can use '\n' or println.
+          There should be no space after the String at each line.
   */
   public static void printFace() {
       //TODO
