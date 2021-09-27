@@ -40,8 +40,6 @@ When committing, GitHub will ask you to enter a commit message. It helps to easi
 
 <hr>
 
-**END OF INSTRUCTIONS for HelloWorld assignment**
-
 The rest of the README file explains additional concepts about how Actions work.
 
 <hr>

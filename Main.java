@@ -3,7 +3,18 @@ class Main {
   
   // You should not change this method
   public static void main(String[] args) {
-    System.out.println("Hello, CSS 142 Student!"); 
+    printHello();
+    printStarPiramid();
+    printFace();
+  }
+  
+  /**
+   * This method should print
+   * "Hello, CSS 142 Student!"
+   */
+  public static void printHello() {
+    //TODO
+    System.out.println("Hello, XXX");
   }
   
   /**
@@ -22,13 +33,13 @@ class Main {
       //TODO
   }
     
-  /**
-   This method print out a face:
-   " +\"\"\"\"\"+
-    [| o o |]
-     |  ^  |
-     | '-' |
-     +-----+"
+  // This method print out a face:
+  //    +"""""+           
+  //   [| o o |]          
+  //    |  ^  |
+  //    | '-' |
+  //    +-----+
+  /*
     Note: You need to print out the String between 2 quotation marks (").
           There should be a new line printed at the end of each line.
           To print a new line, you can use '\n' or println.
