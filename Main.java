@@ -9,7 +9,7 @@ class Main {
   }
   
   /**
-   * This method should print
+   * This method should print the below statement.
    * "Hello, CSS 142 Student!"
    */
   public static void printHello() {
