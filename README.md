@@ -30,7 +30,28 @@ If you have not already, create a directory where you will store all your files 
     - Once you have your indentation level configured properly on BlueJ, use Edit > Auto-Layout to indent your code with 2-spaces.
 4. Save your file in your IDE to your local computer and then locate the file and **Upload** your code by clicking the "Add File" button. You can also upload your file using drag-and-drop. **Commit changes** on your browser.
 5. Check for test results, errors, and suggestions in "Actions" tab in your browser ![image](https://user-images.githubusercontent.com/54456351/122830040-a0d55a00-d29c-11eb-8e7f-a73c1a56546d.png)
-6. Repeat step 3 and 4 until the assignment is completed and all tests are passed and all code style suggestions are implemented
+6. Repeat step 3 and 4 until the assignment is completed and all tests are passed and all code style suggestions are implemented. There are four methods that you have to modify
+
+    - `printHello` where the output should read ""Hello, CSS 142 Student!"
+    - `printStarPiramid` where the output should be a pyramid as below
+<pre>
+    *
+   ***
+  *****
+ *******
+*********
+</pre>
+.
+-  `printFace` where the output should be an ASCII face as below
+<pre>
+ +"""""+
+[| o o |]
+ |  ^  |
+ | '-' |
+ +-----+
+ </pre>
+.   
+- `printLongSentence` where the long sentence needs to be fixed along with some variable names.
 
 ![image](https://user-images.githubusercontent.com/54456351/119812273-d3a65100-be9c-11eb-9c53-326b5fc460c3.png)
 
