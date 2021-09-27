@@ -1,5 +1,5 @@
 // Your First Program
-class HelloWorld {
+class Main {
   
   // You should not change this method
   public static void main(String[] args) {

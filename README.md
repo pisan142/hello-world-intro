@@ -21,11 +21,11 @@ If you have not already, create a directory where you will store all your files 
     - (Windows sample directory) C:\Users\pisan\2021AU\142\assignment1
     - (Mac Sample directory) /Users/pisan/2021AU/142/assignment1
 
-1. Click on "HelloWorld.java" to see what is provided as your starter code
-2. Copy the template into your HelloWorld.java file in your Java IDE (BlueJ, Eclipse, IntelliJ, jGRASP, etc.) and make your desired edits
-    - The name of the Class you are creating **must be** HelloWorld
-    - The name of the file you create **must be** HelloWorld.java
-    - You can delete all the code provided by you IDE and just copy the code that you got from HelloWorld.java file from GitHub
+1. Click on "Main.java" to see what is provided as your starter code
+2. Copy the template into your Main.java file in your Java IDE (Repl.It, BlueJ, Eclipse, IntelliJ, jGRASP, etc.) and make your desired edits
+    - The name of the Class you are creating **must be** Main
+    - The name of the file you create **must be** Main.java
+    - You can delete all the code provided by you IDE and just copy the code that you got from Main.java file from GitHub
     - By default, BlueJ uses 4 spaces for indentation. The [Google Style Guide](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation) recommends 2 spaces, so we will use 2-spaces for indentation. To change BlueJ's default indentation level see the video at https://www.youtube.com/watch?v=FuaL1b8MQHg
     - Once you have your indentation level configured properly on BlueJ, use Edit > Auto-Layout to indent your code with 2-spaces.
 4. Save your file in your IDE to your local computer and then locate the file and **Upload** your code by clicking the "Add File" button. You can also upload your file using drag-and-drop. **Commit changes** on your browser.
