@@ -6,6 +6,7 @@ class Main {
     printHello();
     printStarPiramid();
     printFace();
+    printLongSentence();
   }
   
   /**
