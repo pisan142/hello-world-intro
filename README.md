@@ -93,8 +93,7 @@ Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
 If you have any compilation errors, CheckStyle report will not be generated. Please view the JUnit Report and debug all errors first.
 
 ### For more detatils on the CheckStyle warning, you can view this website:  <a href="https://pisana.github.io/checkstyle-webpage/">checkstyle-webpage</a>
- <br>
-### If you don't see your warnings on the website, please fill this survey so that we can add them: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1M4lW8zU0gfX2b0JHl3O0-vluhYhtCcvS2Ox0z3LDCwWEHg/viewform">New CheckStyle Warning</a> <br>
+### If you don't see your warnings on the website, please fill this survey so that we can add them: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1M4lW8zU0gfX2b0JHl3O0-vluhYhtCcvS2Ox0z3LDCwWEHg/viewform">New CheckStyle Warning</a> 
 
 ## Misspell
 Click "misspell" to view found mispellings.
